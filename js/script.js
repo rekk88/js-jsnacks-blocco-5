@@ -1,3 +1,40 @@
+// --------------------------------------------es1--------------------------------------------------------
+
+// var bici = [
+//     {
+//         nome : "gian",
+//         peso : 10,
+//     },
+//     {
+//         nome : "aranvia",
+//         peso : 3,
+//     }, 
+//     {
+//         nome : "iok",
+//         peso : 50,
+//     },
+// ];
+
+
+// var min = 999990 ;
+// var n;
+// for(var i=0; i<bici.length ;i++){
+//     if(bici[i].peso < min){
+//         min = bici[i].peso;
+//         n = i; 
+//     }
+// }
+
+// console.log("la bici più leggera è ",bici[n].nome ," peso : ",max);
+
+// --------------------------------------------es2--------------------------------------------------------
+
+
+
+
+
+// --------------------------------------------es3--------------------------------------------------------
+
 var z15 = []; //zucchine con lunghezza >= 15
 var peso15 = 0 ;
 var z14 = []; //zucchine con lunghezza < 15
@@ -50,3 +87,5 @@ console.log("peso 14 : ", peso14);
 function rand(min , max){
     return Math.floor(Math.random() * (max - min + 1) + min);
 }
+
+
