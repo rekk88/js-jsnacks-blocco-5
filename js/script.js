@@ -29,6 +29,30 @@
 
 // --------------------------------------------es2--------------------------------------------------------
 
+// var pesoTot = 0 ;
+// var orto = [];
+
+// var zucchina = {
+//     varietà : " ",
+//     peso : 0 ,
+//     lunghezza : 0,
+// };
+
+// for(var i=0 ; i < 10 ; i++){
+//    zucchina.varietà = prompt("inserisci varietà : ");
+//    zucchina.peso = rand(0,10);
+//    zucchina.lunghezza = rand(0,10);
+//    orto.push(zucchina);
+//    pesoTot += zucchina.peso;
+//    console.log("peso zucchina : " , zucchina.peso);
+// }
+// console.log(pesoTot);
+
+
+
+// function rand(min , max){
+//     return Math.floor(Math.random() * (max - min + 1) + min);
+// }
 
 
 
